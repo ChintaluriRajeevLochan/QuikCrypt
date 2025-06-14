@@ -5,7 +5,7 @@ QuikCrypt is a sleek and secure file encryption & decryption desktop application
 
 ---
 
-## 🚀 Features
+##  Features
 
 -  *File Selection* — Easily choose files from your system for encryption/decryption.
 -  *AES Encryption* — Encrypts files using the secure AES (Fernet) algorithm.
